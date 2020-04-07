@@ -1,8 +1,8 @@
 Suppose you are given (x1, y1), (x2, y2)... (x100, y100) that satisfy the following function: 
-
-y = (sin(ax + b))^2
-y = exp(ax + b)
-y = 1 / (ax + b) 
+<br/>
+1. y = (sin(ax + b))^2 <br/> 
+2. y = exp(ax + b) <br/>
+3. y = 1 / (ax + b) <br/>
 
 except that one among these 100 points does not satisfy the function.
 
